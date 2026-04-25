@@ -1,6 +1,6 @@
 # My RoadMap Front Projects Repository --
 - At first I just wanna say that I'm a beginner at the IT world, so I'll probably miss a lot of things about good practices of coding.
-- In second, I'm a brazilian so my english.
+- In second, I'm a brazilian so my english is kinda bad.
 - So, at third, my keyboard have some keys that are malfunctionals, that is another thing to disturb me when I'm typing something.
 
 ## Why I created this Repository? -
